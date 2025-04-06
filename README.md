@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Deng Ayiel
 
-<!--
-**dengA111/dengA111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an aspiring Master's student with a background in Electrical Engineering.  
+⚡ I'm passionate about smart systems, machine learning, Renewable Energy and Power Electronics. 
+ 
+🛠️ Currently working on:
+- Motor fault classification using machine learning
+- Grid-tied PV system modeling in MATLAB/Simulink
+-Battery Management Systems
 
-Here are some ideas to get you started:
+## 🧰 Tools & Technologies
+- MATLAB / Simulink
+- Python ,C programming
+- Embedded Systems
+-PLC(ladder programming)
+-Fusion 360
+-Arduino uno and esp8266 and esp32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- Email: dengchagai1@gmail.com
